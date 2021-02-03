@@ -4,6 +4,8 @@ import Layout from 'components/Layout';
 import SEO from 'components/SEO';
 import Experience from 'components/Experience';
 import Education from 'components/Education';
+import Hobbies from 'components/Hobbies';
+import Projects from 'components/Projects';
 import Skills from 'components/Skills';
 
 const ResumePage: React.FC = () => (
@@ -13,6 +15,8 @@ const ResumePage: React.FC = () => (
     <hr />
     <Education />
     <hr />
+    <Projects></Projects>
+    <hr/>
     <Skills />
   </Layout>
 );
