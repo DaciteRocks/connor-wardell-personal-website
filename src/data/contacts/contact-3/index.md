@@ -2,5 +2,5 @@
 category: 'contact'
 title: 'Email'
 icon: 'paper-plane'
-content: 'connorwardell@hotmail.com'
+content: 'connorcwardell@outlook.com'
 ---

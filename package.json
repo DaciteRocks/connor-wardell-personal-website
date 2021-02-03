@@ -4,6 +4,7 @@
   "description": "Connor Wardell personal website",
   "version": "0.1.0",
   "author": "Connor Wardell",
+  "homepage": "http://daciterocks.github.io/connor-wardell-personal-website",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
@@ -36,7 +37,8 @@
     "react-slick": "^0.25.2",
     "styled-components": "^5.1.0",
     "tailwind.macro": "^1.0.0-alpha.10",
-    "tailwindcss": "^1.3.5"
+    "tailwindcss": "^1.3.5",
+    "typescript": "^4.1.3"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
@@ -57,7 +59,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public --branch master"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public -b master"
   }
-
 }
