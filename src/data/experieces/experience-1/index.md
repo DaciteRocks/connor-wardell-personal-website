@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Gatsby Static Site Ecommerce Website'
+position: 'Computer Science Capstone'
+startDate: 'August 2019'
+endDate: 'May 2020'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I worked with a group of students for a senior developer at paypal to create an easy to use website generator for small buisnesses using Gatsb, Nodejs, React, and Paypal.
