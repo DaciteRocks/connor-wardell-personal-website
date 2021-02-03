@@ -24,8 +24,7 @@ const Projects = () => {
             id
             html
             frontmatter {
-              company
-              position
+              project
               startDate
               endDate
             }
@@ -46,14 +45,14 @@ const Projects = () => {
         const {
           id,
           html,
-          frontmatter: { company, position, startDate, endDate }
+          frontmatter: { project, startDate, endDate }
         } = item.node;
 
         return (
           <Timeline
             key={id}
-            title={company}
-            subtitle={position}
+            title={project}
+            
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
