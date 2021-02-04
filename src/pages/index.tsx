@@ -11,7 +11,7 @@ const IndexPage: React.FC = () => {
     <Layout>
       <SEO title="About Me" />
       <HeroBanner />
-      <Services />
+     
       <hr />
       
     </Layout>
@@ -19,3 +19,4 @@ const IndexPage: React.FC = () => {
 };
 
 export default IndexPage;
+// <Services />
