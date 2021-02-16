@@ -1,8 +1,8 @@
 ---
 category: 'projects'
-project: 'Forge Inc'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+project: 'Gatsby Static Site Ecommerce Website'
+startDate: 'August 2019'
+endDate: 'May 2020'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I worked with a group of students for a senior developer at PayPal to create an easy to use website generator for small businesses using Gatsby, Nodejs, React, and Paypal. https://github.com/bbruns97/PayPal-Static-Site-Generator
