@@ -1,7 +1,7 @@
 ---
 category: 'experiences'
 company: 'Undergraduate TA for Computer Org/Assemb Lang Progaming'
-position: 'UI/UX Designer'
+position: ''
 startDate: 'January 2019'
 endDate: 'May 2019'
 ---

@@ -17,7 +17,7 @@ const Experience = () => {
       }
       allMarkdownRemark(
         filter: { frontmatter: { category: { eq: "experiences" } } }
-        sort: { order: DESC, fields: fileAbsolutePath }
+        sort: { order: ASC, fields: fileAbsolutePath }
       ) {
         edges {
           node {

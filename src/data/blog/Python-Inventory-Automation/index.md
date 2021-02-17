@@ -1,7 +1,7 @@
 ---
 category: 'blog'
 cover: './python.jpg'
-title: 'Simple Python Automation'
+title: 'Python Inventory Automation'
 description: 'Automate Taking Inventory Process'
 date: '2018-11-13'
 tags: ['Python', 'Automation']
